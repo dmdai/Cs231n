@@ -1,0 +1,7 @@
+
+该程序是Stanford的Cs231n机器学习课程作业，可以保证程序的所有核心部分全部为我自己编写的！部分程序所保存的参数和模型也在相应文件夹中。
+
+其中assignment1主要是一些简单分类器的程序，如KNN、Softmax、LinearSVM等；
+assignment2主要是MLP的程序；
+assignment3主要是CNN的程序，
+assignment4主要是RNN的程序；
